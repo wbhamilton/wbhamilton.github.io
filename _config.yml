@@ -27,7 +27,6 @@ twitter_username: wbhamilton
 github_username:  wbhamilton
 
 # Build settings
-yaml
 # theme: minima
 remote_theme: thelehhman/plainwhite-jekyll
 plugins:
