@@ -3,19 +3,14 @@ id: 2
 title: About
 date: 2009-03-09T12:08:41-07:00
 author: wbhamilton
-layout:
-  - one-col
 guid: http://1twentyeight.com/blog/?page_id=2
-aktt_notify_twitter:
-  - 'yes'
-seo_follow:
-  - 'false'
-seo_noindex:
-  - 'false'
+layout: page
 ---
 ### ME
 
-<img class="alignright size-full wp-image-6197" title="glasses-o-matic" src="http://1twentyeight.com/wp-content/uploads/2009/03/glasses-o-matic.jpg" alt="" width="300" height="300" srcset="http://1twentyeight.com/wp-content/uploads/2009/03/glasses-o-matic.jpg 480w, http://1twentyeight.com/wp-content/uploads/2009/03/glasses-o-matic-150x150.jpg 150w, http://1twentyeight.com/wp-content/uploads/2009/03/glasses-o-matic-300x300.jpg 300w" sizes="(max-width: 300px) 100vw, 300px" /> Hello. My name is Brad, and this is 1twentyeight.com. I am married to Julie, and have two kids. I&#8217;m originally from Texas. From 2006 to 2011 we lived in the United Kingdom (Cardiff, Wales) where I was the Director of a charity (non-profit), CommunityOne. This site was birthed during my time there. In August 2011 we moved to Portland, Oregon. After a brief stint at OCHIN and five years at [Puppet](http://puppet.com), I am now the Director of Customer Success at [BlueVolt](http://bluevolt.com) [<sup>1</sup>](#note-2-1 "Of course, the thoughts and opinions expressed here are mine, and do not reflect the views of my employer."){#return-note-2-1.simple-footnote}.
+<img src="http://wbhamilton.github.io/wp-content/uploads/2009/03/glasses-o-matic.jpg" alt="" width="300" height="300" /> 
+
+Hello. My name is Brad, and this is 1twentyeight.com. I am married to Julie, and have two kids. I&#8217;m originally from Texas. From 2006 to 2011 we lived in the United Kingdom (Cardiff, Wales) where I was the Director of a charity (non-profit), CommunityOne. This site was birthed during my time there. In August 2011 we moved to Portland, Oregon. After a brief stint at OCHIN and five years at [Puppet](http://puppet.com), I am now the Director of Customer Success at [BlueVolt](http://bluevolt.com) [<sup>1</sup>](#note-2-1 "Of course, the thoughts and opinions expressed here are mine, and do not reflect the views of my employer."){#return-note-2-1.simple-footnote}.
 
 I use 1twentyeight as a place to write about things that strike my fancy.
 
