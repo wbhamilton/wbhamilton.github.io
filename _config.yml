@@ -23,8 +23,8 @@ plainwhite:
     - title: About
       url: "/about"
   sitemap: true
-  tagline: |
-  purveyor of 
+  tagline: 
+  purveyor of. 
   
   # generate social links in footer
   social_links:
