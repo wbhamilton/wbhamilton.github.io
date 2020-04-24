@@ -16,15 +16,13 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Brad Hamilton
-#  tagline: purveyor of fine instruction
+  tagline: purveyor of fine instruction
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   navigation:
     - title: About
       url: "/about"
-  sitemap: true
-  tagline: 
-  purveyor of. 
+  sitemap: true 
   
   # generate social links in footer
   social_links:
