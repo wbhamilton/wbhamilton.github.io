@@ -21,9 +21,9 @@ tags:
 I apologize to my lone reader for my tardiness as I was traveling during the holiday season and did not plan appropriately for getting this post published. Also, subconsciously I’ve put this off for some time because this year, more than any I can think of since beginning my top five lists, was the most difficult. There were plenty of _good_ albums, but there were hardly any _great_ albums. Picking a tops list out of a plethora of good albums is exceptionally hard to do.
 
 Previous years for context:  
-<a href="http://1twentyeight.com/top-five-albums-2017 target=" _blank"="" rel="noopener">2017</a> | <a href="http://1twentyeight.com/top-five-albums-2016/" target="_blank" rel="noopener">2016</a> | <a href="http://1twentyeight.com/top-five-albums-2015/" target="_blank" rel="noopener">2015</a> | <a href="http://1twentyeight.com/top-five-albums-2014/" target="_blank" rel="noopener">2014</a> | <a href="http://1twentyeight.com/top-five-albums-2013/" target="_blank" rel="noopener">2013</a> | <a href="http://1twentyeight.com/top-five-albums-2012/" target="_blank" rel="noopener">2012</a> | <a href="http://1twentyeight.com/top-five-albums-2011/" target="_blank" rel="noopener">2011</a> | <a href="http://1twentyeight.com/top-five-albums%e2%80%942010/" target="_blank" rel="noopener">2010</a>
+[2017](http://1twentyeight.com/top-five-albums-2017) | [2016](http://1twentyeight.com/top-five-albums-2016) | [2015](http://1twentyeight.com/top-five-albums-2015) | [2014](http://1twentyeight.com/top-five-albums-2014) | [2013](http://1twentyeight.com/top-five-albums-2013) | [2012](http://1twentyeight.com/top-five-albums-2012) | [2011](http://1twentyeight.com/top-five-albums-2011) | [2010](http://1twentyeight.com/top-five-albums%e2%80%942010)
 
-All of the 2018 albums listed here, plus others that didn’t make the list are on Spotify: <a href="https://open.spotify.com/user/wbhamilton/playlist/56ubHvBr3QAaraJ0Efy9u3?si=nEYazFNOSWSH8IzIBTR34Q" target="_blank" rel="noopener">URL</a> | <a href="spotify:user:wbhamilton:playlist:56ubHvBr3QAaraJ0Efy9u3" target="_blank" rel="noopener">Spotify URI</a>.
+All of the 2018 albums listed here, plus others that didn’t make the list are on Spotify: [URL](https://open.spotify.com/user/wbhamilton/playlist/56ubHvBr3QAaraJ0Efy9u3?si=nEYazFNOSWSH8IzIBTR34Q)
 
 ### Honorable Mentions
 
