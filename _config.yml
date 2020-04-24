@@ -22,7 +22,7 @@ plainwhite:
   navigation:
     - title: About
       url: "/about"
-
+  sitemap: true
 
   # generate social links in footer
   social_links:
