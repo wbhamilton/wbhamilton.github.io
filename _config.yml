@@ -37,7 +37,6 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: wbhamilton
-    github: wbhamilton
 	# linkedIn: in/thelehhman
     # rss: rss
     # dribbble: jekyll
