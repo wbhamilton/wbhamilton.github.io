@@ -35,8 +35,8 @@ plainwhite:
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
-  social_links:
-    twitter: wbhamilton
+  # social_links:
+    # twitter: wbhamilton
 	# linkedIn: in/thelehhman
     # rss: rss
     # dribbble: jekyll
