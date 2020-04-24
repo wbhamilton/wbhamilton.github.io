@@ -37,12 +37,12 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: wbhamilton
-    # linkedIn: in/thelehhman
+    linkedIn: in/wbhamilton
     # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
+    instagram: wbhamilton
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
@@ -61,8 +61,8 @@ plainwhite:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - about.md
 
 # Build settings
 # theme: minima
