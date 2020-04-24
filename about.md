@@ -4,13 +4,13 @@ title: About
 date: 2009-03-09T12:08:41-07:00
 author: wbhamilton
 guid: http://1twentyeight.com/blog/?page_id=2
-layout: page
+layout: post
 ---
 ### ME
 
-<img src="http://wbhamilton.github.io/wp-content/uploads/2009/03/glasses-o-matic.jpg" alt="" width="300" height="300" /> 
+<img src="https://wbhamilton.github.io/wp-content/uploads/2009/03/glasses-o-matic.jpg" alt="" width="300" height="300" /> 
 
-Hello. My name is Brad, and this is 1twentyeight.com. I am married to Julie, and have two kids. I&#8217;m originally from Texas. From 2006 to 2011 we lived in the United Kingdom (Cardiff, Wales) where I was the Director of a charity (non-profit), CommunityOne. This site was birthed during my time there. In August 2011 we moved to Portland, Oregon. After a brief stint at OCHIN and five years at [Puppet](http://puppet.com), I am now the Director of Customer Success at [BlueVolt](http://bluevolt.com) [<sup>1</sup>](#note-2-1 "Of course, the thoughts and opinions expressed here are mine, and do not reflect the views of my employer."){#return-note-2-1.simple-footnote}.
+Hello. My name is Brad, and this is 1twentyeight.com. I am married to Julie, and have two kids. I&#8217;m originally from Texas. From 2006 to 2011 we lived in the United Kingdom (Cardiff, Wales) where I was the Director of a charity (non-profit), CommunityOne. This site was birthed during my time there. In August 2011 we moved to Portland, Oregon. After a brief stint at OCHIN and five years at [Puppet](http://puppet.com), I am now the Director of Customer Success at [BlueVolt](http://bluevolt.com) [<sup>1</sup>](#note-2-1 "Of course, the thoughts and opinions expressed here are mine, and do not reflect the views of my employer.").
 
 I use 1twentyeight as a place to write about things that strike my fancy.
 
