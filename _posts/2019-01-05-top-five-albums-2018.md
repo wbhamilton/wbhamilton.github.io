@@ -3,12 +3,9 @@ id: 7010
 title: Top Five Albums – 2018
 date: 2019-01-05T17:28:12-08:00
 author: wbhamilton
-layout:
-  - ""
+layout: post
 guid: http://1twentyeight.com/?p=7010
 permalink: /top-five-albums-2018/
-embed:
-  - ""
 categories:
   - Music
 tags:
