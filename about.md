@@ -8,7 +8,7 @@ layout: page
 ---
 ## ME
 
-Hello. My name is Brad, and this is 1twentyeight.com. I am married to Julie, and have two kids. I&#8217;m originally from Texas. From 2006 to 2011 we lived in the United Kingdom (Cardiff, Wales) where I was the Director of a charity (non-profit), CommunityOne. This site was birthed during my time there. In August 2011 we moved to Portland, Oregon. After a brief stint at OCHIN and five years at [Puppet](http://puppet.com), I am now the Director of Customer Success at [BlueVolt](http://bluevolt.com) <sup>1</sup>.
+Hello. My name is Brad, and this is 1twentyeight.com. Spouse = Julie. Offspring = 2 highschoolers. Originally from Texas. From 2006 to 2011 we lived in the United Kingdom (Cardiff, Wales) where I was the Director of a charity (non-profit), CommunityOne. This site was birthed during my time there. In August 2011 we moved to Portland, Oregon. After a brief stint at OCHIN, five years at [Puppet](http://puppet.com), and one and a half years as Director of Customer Success at [BlueVolt](http://bluevolt.com), I am now the Director of Customer Journey Solutions at [New Relic](https://newrelic.com)<sup>1</sup>.
 
 I use 1twentyeight as a place to write about things that strike my fancy.
 
@@ -21,5 +21,5 @@ I use 1twentyeight as a place to write about things that strike my fancy.
   * All on a [Mac](http://www.apple.com/ "Best Computers Ever Made").
 
 
-*Notes:*
+**Notes:**
  1. Of course, the thoughts and opinions expressed here are mine, and do not reflect the views of my employer.
