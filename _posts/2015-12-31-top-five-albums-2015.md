@@ -3,12 +3,9 @@ id: 6739
 title: 'Top Five Albums &#8211; 2015'
 date: 2015-12-31T10:59:25-08:00
 author: wbhamilton
-layout:
-  - ""
+layout: post
 guid: http://1twentyeight.com/?p=6739
 permalink: /top-five-albums-2015/
-embed:
-  - ""
 categories:
   - Music
 tags:
