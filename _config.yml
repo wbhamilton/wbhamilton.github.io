@@ -22,7 +22,8 @@ plainwhite:
   navigation:
     - title: About
       url: "/about"
-  sitemap: true 
+  sitemap: true
+  disqus_shortname: 1twentyeight-com
   
   # generate social links in footer
   social_links:
