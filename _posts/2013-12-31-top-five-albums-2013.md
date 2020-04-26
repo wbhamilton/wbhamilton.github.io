@@ -25,20 +25,20 @@ Two things changed the way I listened to music in 2013. Spotify & Vinyl. Almost 
 
 ### This Years Honorable Mentions (Good, but not quite good enough)
 
-  * Sleeping at Last &ndash; Atlas
-  * Local Natives &ndash; Hummingbird
-  * The Naked and the Famous &ndash; In Rolling Waves
-  * Lucius &ndash; Wildewoman
-  * Chvrches &ndash; The Bones of What You Believe
-  * Volcano Choir &ndash; Repave
-  * Sigur Ros &ndash; Kveikur
-  * The Strokes &ndash; Comedown Machine (This was a tough choice…it could have easily made my Top 5. It’s a very good album.)
+  * Sleeping at Last - Atlas
+  * Local Natives - Hummingbird
+  * The Naked and the Famous - In Rolling Waves
+  * Lucius - Wildewoman
+  * Chvrches - The Bones of What You Believe
+  * Volcano Choir - Repave
+  * Sigur Ros - Kveikur
+  * The Strokes - Comedown Machine (This was a tough choice…it could have easily made my Top 5. It’s a very good album.)
 
 ## The Top Five
 
-I&#8217;ve put these five albums in a Spotify playlist for your listening pleasure: [Listen](http://d.pr/bcFl)
+I've put these five albums in a Spotify playlist for your listening pleasure: [Listen](http://d.pr/bcFl)
 
-### 5. The Head and the Heart &ndash; Let’s Be Still
+### 5. The Head and the Heart - Let’s Be Still
 
 <img src="https://s3.amazonaws.com/1twentyeight/uploads/five.jpg" alt="5" class="alignleft" />
 
@@ -46,9 +46,7 @@ This sophomore album is really good. Looking back, their first album (self-title
 
 Best Song: _Gone_
 
-&nbsp;
-
-### 4. The National &ndash; Trouble Will Find Me
+### 4. The National - Trouble Will Find Me
 
 <img src="https://s3.amazonaws.com/1twentyeight/uploads/four.jpg" alt="4" class="alignleft" />
 
@@ -56,7 +54,7 @@ The National never seem to disappoint. While this album is not as good as their 
 
 Best Song: _Hard to Find_. _Demons_ is a close second.
 
-### 3. Arcade Fire &ndash; Reflektor
+### 3. Arcade Fire - Reflektor
 
 <img src="https://s3.amazonaws.com/1twentyeight/uploads/three.jpg" alt="3" class="alignleft" />
 
@@ -64,7 +62,7 @@ Reflektor is a very good album, but not the best the band has ever produced. It 
 
 Best Song: _Here Comes the Night Time_
 
-### 2. Cold War Kids &ndash; Dear Miss Lonelyhearts
+### 2. Cold War Kids - Dear Miss Lonelyhearts
 
 <img src="https://s3.amazonaws.com/1twentyeight/uploads/two.jpg" alt="2" class="alignleft" />
 
@@ -72,7 +70,7 @@ In 2011 my number one album for the year was Elbow’s _Build a Rocket Boys!_. I
 
 Best Song: _Tuxedos_
 
-### 1. Vampire Weekend &ndash; Modern Vampires of the City
+### 1. Vampire Weekend - Modern Vampires of the City
 
 <img src="https://s3.amazonaws.com/1twentyeight/uploads/one.jpg" alt="1" class="alignleft" />
 
