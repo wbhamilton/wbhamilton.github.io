@@ -15,3 +15,4 @@ tags:
   - Music
 format: video
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LVr4UP9ntLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -6,22 +6,6 @@ author: wbhamilton
 layout: post
 guid: http://1twentyeight.com/?p=6213
 permalink: /all-things-are-new/
-image:
-  - ""
-quote-author:
-  - Unknown
-quote-url:
-  - http://
-quote-copy:
-  - Unknown
-audio:
-  - http://
-link-url:
-  - http://
-seo_follow:
-  - 'false'
-seo_noindex:
-  - 'false'
 categories:
   - Life
 tags:
@@ -29,12 +13,12 @@ tags:
   - Portland
   - redesign
 ---
-A new city. A new home. A new car. A new job (almost). And a new look for 1twentyeight. While I liked the previous design for my site I felt it was time to take it in a new direction. I&#8217;ve decided to move to a tumblog type format, with longer weekly articles, and more frequent updates with photos, quotes, and links to things I find interesting. My hope is that this prompts me to update the site on a more regular basis.
+A new city. A new home. A new car. A new job (almost). And a new look for 1twentyeight. While I liked the previous design for my site I felt it was time to take it in a new direction. I've decided to move to a tumblog type format, with longer weekly articles, and more frequent updates with photos, quotes, and links to things I find interesting. My hope is that this prompts me to update the site on a more regular basis.
 
-My family and I moved to Portland 2.5 weeks ago. We have embraced the city and have fallen in love with her already. We live in the Sellwood neighborhood and are now expert antiquers. We have toured the city. We have eaten its&#8217; food, and drank its&#8217; coffee. I&#8217;m already shopping for a commuter bike. The boy already has a Portland Timbers jersey. We think we&#8217;re going to like it here.
+My family and I moved to Portland 2.5 weeks ago. We have embraced the city and have fallen in love with her already. We live in the Sellwood neighborhood and are now expert antiquers. We have toured the city. We have eaten its' food, and drank its' coffee. I'm already shopping for a commuter bike. The boy already has a Portland Timbers jersey. We think we're going to like it here.
 
-And I have things I want to write about. For the first time in quite a while there I things I feel like saying. I don&#8217;t pretend to think that they will be profound, but it will be me…all me.
+And I have things I want to write about. For the first time in quite a while there I things I feel like saying. I don't pretend to think that they will be profound, but it will be me…all me.
 
-So stay tuned. And if you&#8217;re in Portland let me know. I&#8217;d love to meet you.
+So stay tuned. And if you're in Portland let me know. I'd love to meet you.
 
 Cheers.

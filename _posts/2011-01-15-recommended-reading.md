@@ -6,22 +6,6 @@ author: wbhamilton
 layout: post
 guid: http://1twentyeight.com/?p=6002
 permalink: /recommended-reading/
-image:
-  - ""
-quote-author:
-  - Unknown
-quote-url:
-  - http://
-quote-copy:
-  - Unknown
-audio:
-  - http://
-link-url:
-  - http://
-seo_follow:
-  - 'false'
-seo_noindex:
-  - 'false'
 categories:
   - Culture
   - Life
@@ -37,9 +21,9 @@ tags:
   - review
   - tim keller
 ---
-In the past few months I&#8217;ve tried to increase the amount (number of books) I read. One, it helps with [this problem](http://1twentyeight.com/2010/10/22/the-buggles-were-right/). Two, it increases knowledge &#8211; both specific and general. And three, it gives me something to talk about with others.
+In the past few months I've tried to increase the amount (number of books) I read. One, it helps with [this problem](http://1twentyeight.com/2010/10/22/the-buggles-were-right/). Two, it increases knowledge - both specific and general. And three, it gives me something to talk about with others.
 
-I thought I would share with you the books I&#8217;ve read. I recommend all of them, otherwise I probably wouldn&#8217;t share them with you. But obviously I recommend some more than others, so I&#8217;m including the official 128 Star (★) Rating. One ★ means you might not want to read it unless you&#8217;re just really bored. Five ★&#8217;s means &#8220;Don&#8217;t miss this. Go buy it right now.&#8221;
+I thought I would share with you the books I've read. I recommend all of them, otherwise I probably wouldn't share them with you. But obviously I recommend some more than others, so I'm including the official 128 Star (★) Rating. One ★ means you might not want to read it unless you're just really bored. Five ★'s means &#8220;Don't miss this. Go buy it right now.
 
 In no particular order:
 

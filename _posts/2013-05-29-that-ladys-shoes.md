@@ -1,6 +1,6 @@
 ---
 id: 6677
-title: 'That Lady&#8217;s Shoes'
+title: 'That Lady's Shoes'
 date: 2013-05-29T07:24:58-07:00
 author: wbhamilton
 layout: post
