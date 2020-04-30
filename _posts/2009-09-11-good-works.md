@@ -20,19 +20,19 @@ One of the things I'm passionate about is what I would call a Good Works Initiat
 
 I'm seeing a lot of this good works initiative as I meet and talk with others and as I crawl the interwebs. Here are a few places I see the good works initiative being lived out: (disclaimer: some will be faith based while others will not)
 
-![<img src="http://1twentyeight.com/wp-content/uploads/2009/09/help-portrait.jpg" />](http://www.help-portrait.com)
+[<img src="http://1twentyeight.com/wp-content/uploads/2009/09/help-portrait.jpg" />](http://www.help-portrait.com)
 
 **Help-portrait.com** is a group of photographers that will be providing free portraits to those that are less fortunate this holiday season.
 
-![<img src="http://1twentyeight.com/wp-content/uploads/2009/09/i-heart.jpg"  />](http://i-heart.org/)
+[<img src="http://1twentyeight.com/wp-content/uploads/2009/09/i-heart.jpg"  />](http://i-heart.org/)
 
 **I-HEART** is a movement of people helping people - showing the love of God in practical ways, wherever need exists. Right here, real soon, you'll find an online community with the sole purpose of offline action - sharing ideas, being inspired, shoulder to shoulder, part of the solution - transforming local initiatives into a collaborative global impact. But in the meantime, let's take time to look beyond ourselves and truly see others...their worth, their needs, their future. Because it's together that we love... and think... and act. As one, I-HEART. (from the i-heart website)
 
-![<img src="http://1twentyeight.com/wp-content/uploads/2009/09/thecommon.jpg"  />](https://www.thecommon.org/)
+[<img src="http://1twentyeight.com/wp-content/uploads/2009/09/thecommon.jpg"  />](https://www.thecommon.org/)
 
 **The Common** allows individuals to sign up for things they need help with, and then the community matches their respective abilities to help meet the need.
 
-![<img src="http://1twentyeight.com/wp-content/uploads/2009/09/kiva.jpg"  />](http://www.kiva.org/)
+[<img src="http://1twentyeight.com/wp-content/uploads/2009/09/kiva.jpg"  />](http://www.kiva.org/)
 
 **Kiva** is a micro-finance organization that allows individuals to supply loans to entrepreneurs in many third world countries.
 
