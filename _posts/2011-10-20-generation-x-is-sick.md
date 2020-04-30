@@ -1,6 +1,6 @@
 ---
 id: 6274
-title: 'Generation X is Sick&#8230;'
+title: 'Generation X is Sick'
 date: 2011-10-20T17:05:34-07:00
 author: wbhamilton
 layout: post
