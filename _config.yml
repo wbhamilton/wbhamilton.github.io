@@ -24,7 +24,8 @@ plainwhite:
       url: "/about"
   sitemap: true
   disqus_shortname: 1twentyeight-com
-  
+  analytics_id: "UA-4507895-4"
+
   # generate social links in footer
   social_links:
     twitter: wbhamilton
