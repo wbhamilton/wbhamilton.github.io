@@ -20,10 +20,10 @@ plainwhite:
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   navigation:
-    - title: About
-      url: "/about"
     - title: Home
       url: "/my-work"
+     - title: About
+      url: "/about"
   sitemap: true
   disqus_shortname: 1twentyeight-com
   analytics_id: "UA-4507895-4"
