@@ -22,7 +22,7 @@ plainwhite:
   navigation:
     - title: Home
       url: "/my-work"
-     - title: About
+    - title: About
       url: "/about"
   sitemap: true
   disqus_shortname: 1twentyeight-com
