@@ -21,7 +21,7 @@ plainwhite:
   sitemap: true # set to true to generate sitemap.xml content
   navigation:
   	- title: Home
-  	  url: "/"
+  	  url: "https://1twentyeight.com"
     - title: About
       url: "/about"
   sitemap: true
