@@ -22,10 +22,8 @@ plainwhite:
   navigation:
     - title: About
       url: "/about"
-    - title: My Work
+    - title: Home
       url: "/my-work"
-    - title: Resume
-      url: "/resume"
   sitemap: true
   disqus_shortname: 1twentyeight-com
   analytics_id: "UA-4507895-4"
