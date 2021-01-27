@@ -1,10 +1,8 @@
 ---
-id: 6677
 title: 'That Lady's Shoes'
-date: 2013-05-29T07:24:58-07:00
+date: 2013-05-29
 author: wbhamilton
 layout: post
-guid: http://1twentyeight.com/?p=6677
 permalink: /that-ladys-shoes/
 categories:
   - Photography
