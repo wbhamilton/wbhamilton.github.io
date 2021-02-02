@@ -17,7 +17,7 @@ It is important to understand the distinction. It is even more important to ensu
 
 **My thesis**: Customer Journeys should be built, implemented, and maintained by Customer Success. User Journeys should be built, implemented, and maintained by Product and User Experience. The two are related, but they are not siblings. Think of them as first cousins.
 
-## Customer Journey’s
+## Customer Journeys
 In my last [post](https://1twentyeight.com/solving-for-customer-health/) I gave a short working definition of a *Customer Journey*:
 > A customer journey is a map representing the stages, key milestones, and internal responsibilities related to the strategic path you desire to lead your customers. A properly scoped and mapped out customer journey leads to healthy customers meeting and exceeding *their* business values and goals with *your* product.  
 
