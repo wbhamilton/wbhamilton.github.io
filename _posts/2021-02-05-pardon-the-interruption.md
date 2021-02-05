@@ -5,15 +5,15 @@ author: wbhamilton
 layout: post
 permalink: /pardon-the-interruption/
 categories:
-• Technology
+- Technology
 tags:
-• CS
+- CS
 ---
 I felt it important to press the pause button (yes, after only three posts) and unpack my motivation for beginning to write about the world of Customer Success (CS). This will hopefully lay the foundation for future posts and will provide some context for the thoughts I expressed in the last three articles.
 
 Did you hear about the guitar-pedal-covid-vaccine hoax? Reports are that it began in Italy. Conspiracy theorists started posting the following image, claiming it was a schematic representing how a 5G chip was being inserted into COVID vaccines, thereby giving governments the ability to track and control all those that received the vaccine.
 
-![../assets/img/pedal.jpeg](pedal.jpeg)
+<img src="https://1twentyeight.com/assets/img/pedal.jpeg" />
 
 It [turns out](https://consequenceofsound.net/2021/01/covid-5g-guitar-pedal/) the schematic was actually that of a BOSS MT-2 Metal Zone guitar pedal. 
 
