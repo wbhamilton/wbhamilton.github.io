@@ -8,13 +8,13 @@ layout: page
 ---
 ## ME
 
-Hello. My name is Brad, and this is 1twentyeight.com. Spouse = Julie. Offspring = 2 highschoolers. Originally from Texas. From 2006 to 2011 we lived in the United Kingdom (Cardiff, Wales) where I was the Director of a charity (non-profit), CommunityOne. This site was birthed during my time there. In August 2011 we moved to Portland, Oregon. After a brief stint at OCHIN, five years at [Puppet](http://puppet.com), and one and a half years as Director of Customer Success at [BlueVolt](http://bluevolt.com), I am now the Director of Customer Journey Solutions at [New Relic](https://newrelic.com)<sup>1</sup>.
+Hello. My name is Brad, and this is 1twentyeight.com. Spouse = Julie. Offspring = 2. Originally from Texas. From 2006 to 2011 we lived in the United Kingdom (Cardiff, Wales) where I was the Director of a charity (non-profit), CommunityOne. This site was birthed during my time there. In August 2011 we moved to Portland, Oregon. After a brief stint at OCHIN, five years at [Puppet](http://puppet.com), one and a half years as Director of Customer Success at [BlueVolt](http://bluevolt.com), and two years as the Director of Customer Journey Solutions at [New Relic](https://newrelic.com), I am the Senior Director for Onboarding & Digital Experience at [Auth0](https://auth0.com)<sup>1</sup>.
 
 I use 1twentyeight as a place to write about things that strike my fancy.
 
 ### 1TWENTYEIGHT
 
-  * Hosted & Powered by [GitHub](https://github.com").
+  * Hosted & Powered by [GitHub](https://github.com).
   * Themed with [Plainwhite Jekyll](https://github.com/thelehhman/plainwhite-jekyll).
   * Set in [Raleway](https://www.fontsquirrel.com/fonts/Raleway) & [Merriweather](https://www.fontsquirrel.com/fonts/merriweather).
   * Refined using [Coda](http://www.panic.com/coda/ "Pretty Software").
