@@ -8,7 +8,7 @@ layout: page
 ---
 ## ME
 
-Hello. My name is Brad, and this is 1twentyeight.com. Spouse = Julie. Offspring = 2. Originally from Texas. From 2006 to 2011 we lived in the United Kingdom (Cardiff, Wales) where I was the Director of a charity (non-profit), CommunityOne. This site was birthed during my time there. In August 2011 we moved to Portland, Oregon. After a brief stint at OCHIN, five years at [Puppet](http://puppet.com), one and a half years as Director of Customer Success at [BlueVolt](http://bluevolt.com), and two years as the Director of Customer Journey Solutions at [New Relic](https://newrelic.com), I am currently the Senior Director for Onboarding & Digital Experience at [Auth0](https://auth0.com)<sup>1</sup>.
+Hello. My name is Brad, and this is 1twentyeight.com. Originally from Texas. From 2006 to 2011 I lived in the United Kingdom (Cardiff, Wales) where I was the Director of a charity (non-profit), CommunityOne. This site was birthed during my time there. In August 2011 I moved to Portland, Oregon. After a brief stint at OCHIN, five years at [Puppet](http://puppet.com), one and a half years as Director of Customer Success at [BlueVolt](http://bluevolt.com), and two years as the Director of Customer Journey Solutions at [New Relic](https://newrelic.com), I am currently the Senior Director for Digital Experience at [Okta](https://okta.com)<sup>1</sup> (formerly Auth0).
 
 I use 1twentyeight as a place to write about things that strike my fancy.
 
