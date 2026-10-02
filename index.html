@@ -1,19 +1,77 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Coming Soon</title>
-    <style>
-        body { font-family: sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; background: #f4f4f9; }
-        .container { text-align: center; }
-        h1 { color: #333; font-size: 3rem; }
-    </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>1TwentyEight — Coming soon</title>
+<meta name="description" content="1TwentyEight — customer success consulting from Brad Hamilton. New site coming soon.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#161826; --text:#e9e9ed; --accent:#9184d9; --accent-300:#d2cefd; --accent-400:#b5abfc; --accent-900:#2b2741;
+  --section:#262a60; --font:"Inter",system-ui,sans-serif;
+}
+*,*::before,*::after{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--text);font-family:var(--font);font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+::selection{background:color-mix(in srgb,var(--accent) 35%,transparent)}
+a{color:var(--accent);text-underline-offset:3px;text-decoration:none}
+a:hover{color:var(--accent-300)}
+:focus{outline:none}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+.page{
+  min-height:100%;display:flex;flex-direction:column;
+  padding:0 clamp(20px,5vw,72px);
+  background:
+    radial-gradient(1200px 720px at 82% -160px,color-mix(in srgb,var(--accent-900) 75%,transparent),transparent 60%),
+    radial-gradient(1100px 800px at -10% 110%,color-mix(in srgb,var(--section) 55%,transparent),transparent 60%),
+    var(--bg);
+}
+.inner{width:100%;max-width:1200px;margin:0 auto;display:flex;flex-direction:column;flex:1}
+header{display:flex;align-items:center;height:64px}
+.brand{font-weight:500;font-size:17px;letter-spacing:-0.01em;color:var(--text)}
+.brand:hover{color:var(--text)}
+.brand span{color:var(--accent)}
+main{flex:1;display:flex;flex-direction:column;justify-content:center;padding:72px 0 96px;opacity:0;transform:translateY(10px);animation:rise .7s ease-out .1s forwards}
+.kicker{display:flex;align-items:center;gap:12px;font-size:13px;line-height:14px;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);margin:0 0 28px}
+.kicker::before{content:"";width:22px;height:1px;background:var(--accent)}
+h1{font-weight:500;font-size:clamp(40px,5.4vw,74px);line-height:1.08;letter-spacing:-0.018em;margin:0 0 0 -0.06em;max-width:16ch;text-wrap:balance}
+h1 .dim{display:block;color:color-mix(in srgb,var(--text) 62%,transparent)}
+.lede{font-size:17px;line-height:28px;max-width:48ch;margin:28px 0 0;color:color-mix(in srgb,var(--text) 78%,transparent);text-wrap:pretty}
+.actions{display:flex;flex-wrap:wrap;align-items:center;gap:14px 28px;margin-top:36px}
+.btn{display:inline-flex;align-items:center;gap:10px;height:42px;padding:0 18px;border:1px solid var(--accent);border-radius:8px;color:var(--text);font-size:15px;font-weight:500;transition:background .15s}
+.btn:hover{background:color-mix(in srgb,var(--accent) 14%,transparent);color:var(--text)}
+.btn:active{background:color-mix(in srgb,var(--accent) 24%,transparent);border-color:var(--accent-400)}
+.btn svg{width:16px;height:16px}
+.phone{font-size:15px;font-feature-settings:'tnum' 1;color:color-mix(in srgb,var(--text) 78%,transparent)}
+footer{position:relative;display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px 24px;padding:22px 0 28px;font-size:13px;color:color-mix(in srgb,var(--text) 55%,transparent)}
+footer::before{content:"";position:absolute;top:0;left:0;right:0;height:1px;background:linear-gradient(90deg,transparent,color-mix(in srgb,var(--text) 16%,transparent) 48px,color-mix(in srgb,var(--text) 16%,transparent) calc(100% - 48px),transparent)}
+@keyframes rise{to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){main{animation:none;opacity:1;transform:none}}
+</style>
 </head>
 <body>
-    <div class="container">
-        <h1>1twentyeight consulting</h1>
-        <h1>Coming Soon!</h1>
-    </div>
+<div class="page">
+  <div class="inner">
+    <header>
+      <a href="./" class="brand">1<span>Twenty</span>Eight</a>
+    </header>
+    <main>
+      <h1>Customer success, built to grow customers.<span class="dim">Coming Soon.</span></h1>
+      <p class="lede">1TwentyEight helps Customer Success teams understand where their customers find value with their product, and grow deeper and lasting relationships. Until the site is up, the fastest way to talk is email.</p>
+      <div class="actions">
+        <a class="btn" href="mailto:hello@1twentyeight.com">hello@1twentyeight.com
+          <svg viewBox="0 0 256 256" fill="currentColor" aria-hidden="true"><path d="M221.66,133.66l-72,72a8,8,0,0,1-11.32-11.32L196.69,136H40a8,8,0,0,1,0-16H196.69L138.34,61.66a8,8,0,0,1,11.32-11.32l72,72A8,8,0,0,1,221.66,133.66Z"/></svg>
+        </a>
+      </div>
+    </main>
+    <footer>
+      <span>© 2026 1TwentyEight</span>
+      <span>Brad Hamilton, Founder</span>
+    </footer>
+  </div>
+</div>
 </body>
 </html>
